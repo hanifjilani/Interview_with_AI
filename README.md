@@ -59,9 +59,8 @@ streamlit run app.py
 ```
 
 <h2>🧪 Example Output</h2>
-From the Uploaded Resume, extracts the following
 <details>
-  <summary>🧠 From the Uploaded Resume, extracts the following information. Click to view!</summary>
+  <summary>📄 Extracted information from uploaded resume — click to view</summary>
 
 ```json
 {
@@ -136,19 +135,21 @@ From the Uploaded Resume, extracts the following
 
 🔧 Technical Questions:
 
-How would you integrate Google Calendar API with a backend to manage billing?
-
-What are some challenges in deploying Flask apps on AWS?
-
-Explain how you would structure a web app using React and Flask.
+1. Django and Flask:
+Can you walk us through a project where you used Django or Flask? How did you decide which framework to use, and what challenges did you face during the development process?
+2. React and Node.js:
+Describe a project where you integrated React with a Node.js backend. How did you manage state and data flow between the front end and back end?
+3. SQL and MapReduce:
+You've mentioned engineering a segmented inverted index using a MapReduce pipeline. Can you explain what this project entailed and how you utilized SQL and MapReduce to optimize search efficiency?
 
 💬 Behavioral Questions:
 
-Tell me about a time you had to deliver a project with tight deadlines.
-
-How did you approach building accessible tech for underprivileged users?
-
-Describe a time you worked across a cross-functional team.
+1. Entrepreneurship:
+During your time at the Danish Institute for Study Abroad, you founded a simulated ride-share grocery startup. Can you describe a challenge you encountered in this project and how you overcame it?
+2. Teamwork and Collaboration:
+As a Backend Developer Intern at CLUES, how did you ensure effective collaboration with your team, especially when working on complex projects?
+3. Adaptability:
+You've had experience working in different countries and environments, such as the Danish Institute for Study Abroad and Hafa Math Academy in India. How did you adapt to these varying work cultures, and what did you learn from these experiences?
 
 <h2>📄 License</h2>
 MIT License © Hanif Jilani
