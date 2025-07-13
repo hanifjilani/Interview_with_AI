@@ -11,7 +11,9 @@ A smart and production-ready AI tool that analyzes resumes or job descriptions a
 
 ## 🎬 Demo
 
-![Demo](demo.gif)
+<p align="center">
+  <img src="demo.gif"/>
+</p>
 
 
 ## 📌 What This Project Does
