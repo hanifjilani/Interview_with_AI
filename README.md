@@ -152,5 +152,5 @@ streamlit run app.py
 <p>You've had experience working in different countries and environments, such as the Danish Institute for Study Abroad and Hafa Math Academy in India. How did you adapt to these varying work cultures, and what did you learn from these experiences?</p>
 
 <h2>📄 License</h2>
-MIT License © Hanif Jilani  
+MIT License © Hanif Jilani <br>
 Developed to empower learners, job seekers, and researchers with practical AI-driven tools.
