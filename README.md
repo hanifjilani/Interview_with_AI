@@ -135,12 +135,12 @@ streamlit run app.py
 
 🔧 Technical Questions:
 
-1. Django and Flask:
-Can you walk us through a project where you used Django or Flask? How did you decide which framework to use, and what challenges did you face during the development process?
-2. React and Node.js:
-Describe a project where you integrated React with a Node.js backend. How did you manage state and data flow between the front end and back end?
-3. SQL and MapReduce:
-You've mentioned engineering a segmented inverted index using a MapReduce pipeline. Can you explain what this project entailed and how you utilized SQL and MapReduce to optimize search efficiency?
+1. **Django and Flask:**
+<p>Can you walk us through a project where you used Django or Flask? How did you decide which framework to use, and what challenges did you face during the development process?</p>
+2. **React and Node.js:**
+<p>Describe a project where you integrated React with a Node.js backend. How did you manage state and data flow between the front end and back end?</p>
+**3. SQL and MapReduce:**
+<p>You've mentioned engineering a segmented inverted index using a MapReduce pipeline. Can you explain what this project entailed and how you utilized SQL and MapReduce to optimize search efficiency?</p>
 
 💬 Behavioral Questions:
 
