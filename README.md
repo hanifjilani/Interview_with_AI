@@ -133,9 +133,9 @@ streamlit run app.py
 </details>
 ➡️ The app generates:
 
-🔧 Technical Questions:
+**🔧 Technical Questions:**
 
-1. **Django and Flask:**
+  <h4>1. Django and Flask:</h4>
 <p>Can you walk us through a project where you used Django or Flask? How did you decide which framework to use, and what challenges did you face during the development process?</p>
 2. **React and Node.js:**
 <p>Describe a project where you integrated React with a Node.js backend. How did you manage state and data flow between the front end and back end?</p>
