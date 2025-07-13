@@ -1,4 +1,5 @@
 streamlit
 openai
-PyMuPDF
-spacy
+pyresparser
+pymupdf
+nltk
