@@ -49,8 +49,10 @@ pip install -r requirements.txt
 python -m spacy download en_core_web_sm
 ```
 ### 🔹 4. Add your OpenAI API key
+```bash
+Edit <code>.streamlit/secrets.toml</code>:
 OPENAI_API_KEY = "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-
+```
 ### 🔹 4. Run the Application
 ```bash
 streamlit run app.py
