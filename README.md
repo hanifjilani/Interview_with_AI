@@ -59,6 +59,10 @@ streamlit run app.py
 ```
 
 <h2>🧪 Example Output</h2>
+From the Uploaded Resume, extracts the following
+<details>
+  <summary>🧠 From the Uploaded Resume, extracts the following information. Click to view!</summary>
+
 ```json
 {
   "name": "Hanif Jilani",
@@ -125,7 +129,7 @@ streamlit run app.py
     "Technical Skills Languages: Python, C/C++, MySQL, JavaScript, HTML/CSS Frameworks: Flask, Django, Node.js, React, Dialogflow Developer Tools: Git, Google Cloud Platform, VS Code, Figma, MS Project, MS Office"
   ]
 }
-
+``` </details>
 ➡️ The app generates:
 
 🔧 Technical Questions:
