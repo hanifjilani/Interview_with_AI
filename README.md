@@ -58,7 +58,8 @@ OPENAI_API_KEY = "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 streamlit run app.py
 ```
 
-<h2>🧪 Example Output</h2> <pre> Experience: - Backend Intern at HafaWorks: Automated billing with Google Calendar API - Web Dev at Amaanat NGO: Built websites for women-led businesses Skills: Python, Flask, SQL, AWS, React </pre>
+<h2>🧪 Example Output</h2>
+Experience: - Backend Intern at HafaWorks: Automated billing with Google Calendar API - Web Dev at Amaanat NGO: Built websites for women-led businesses Skills: Python, Flask, SQL, AWS, React
 ➡️ The app generates:
 
 🔧 Technical Questions:
