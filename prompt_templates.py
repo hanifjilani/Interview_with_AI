@@ -1,8 +1,10 @@
 def base_prompt(resume_text):
     return f"""
-You are a helpful AI HR assistant.
+ You are a helpful AI HR assistant.
 
-Below is a candidate's resume:
+Below is the structured output from a resume parser. Please note that some information might not be perfectly categorized: skills may appear in the experience section, and organization names might include tool names or locations. Use your judgment to interpret the resume holistically.
+
+Resume Data:
 \"\"\"
 {resume_text}
 \"\"\"

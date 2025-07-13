@@ -1,0 +1,137 @@
+Python
+Java
+C++
+C
+JavaScript
+TypeScript
+SQL
+Flask
+Django
+React
+Node.js
+Git
+Linux
+TensorFlow
+Keras
+OpenCV
+AWS
+Azure
+GCP
+FastAPI
+Docker
+Kubernetes
+CI/CD
+Machine Learning
+Data Science
+Natural Language Processing
+Computer Vision
+PostgreSQL
+MongoDB
+MySQL
+Firebase
+PyTorch
+Hugging Face
+Streamlit
+LangChain
+AutoCAD
+SolidWorks
+MATLAB
+ANSYS
+Thermodynamics
+Circuit Design
+PLC Programming
+Robotics
+Embedded Systems
+Microcontrollers
+Signal Processing
+Control Systems
+Statics
+Fluid Mechanics
+Geotechnical Engineering
+Civil Estimation
+Structural Analysis
+Electrical Machines
+Manufacturing Processes
+Industrial Engineering
+Laboratory Skills
+PCR
+Microscopy
+Data Analysis
+Research Methods
+Scientific Writing
+Spectroscopy
+Chemical Analysis
+Field Sampling
+Statistical Analysis
+R Programming
+Mass Spectrometry
+Genetic Engineering
+Bioinformatics
+Organic Chemistry
+Molecular Biology
+Physics Simulations
+Adobe Photoshop
+Adobe Illustrator
+Graphic Design
+UI/UX Design
+Sketching
+Painting
+Creative Writing
+Content Editing
+Copywriting
+Typography
+Digital Media
+Storyboarding
+Literary Analysis
+Poetry
+Screenwriting
+Book Publishing
+Photography
+Patient Care
+CPR Certification
+Medical Terminology
+Clinical Research
+Nursing
+Pharmacology
+EHR Systems
+Medical Coding
+Anatomy
+Pathology
+Public Health
+First Aid
+Biomedical Devices
+Surgery Assistance
+Dental Radiology
+Diagnostic Imaging
+Medical Ethics
+Excel
+Financial Modeling
+Accounting
+Taxation
+Investment Analysis
+Market Research
+Business Development
+Entrepreneurship
+Contract Law
+Legal Research
+Litigation
+Corporate Law
+Public Speaking
+Negotiation
+Data-Driven Decision Making
+Operations Management
+Qualitative Research
+Quantitative Analysis
+Survey Design
+Public Policy
+Ethnography
+Behavioral Analysis
+Psychological Testing
+Critical Thinking
+Debate
+Sociological Theory
+Teaching
+Curriculum Development
+Instructional Design
+Foreign Languages
+Translation
