@@ -128,6 +128,7 @@ streamlit run app.py
     "Technical Skills Languages: Python, C/C++, MySQL, JavaScript, HTML/CSS Frameworks: Flask, Django, Node.js, React, Dialogflow Developer Tools: Git, Google Cloud Platform, VS Code, Figma, MS Project, MS Office"
   ]
 }
+</details>
 ➡️ The app generates:
 
 🔧 Technical Questions:
