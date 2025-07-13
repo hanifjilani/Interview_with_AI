@@ -9,6 +9,11 @@ A smart and production-ready AI tool that analyzes resumes or job descriptions a
   <img src="https://img.shields.io/badge/Streamlit-ready-orange" />
 </div>
 
+## 🎬 Demo
+
+![Demo](demo.gif)
+
+
 ## 📌 What This Project Does
 
 This app lets users:
