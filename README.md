@@ -9,6 +9,15 @@ A smart and production-ready AI tool that analyzes resumes or job descriptions a
   <img src="https://img.shields.io/badge/Streamlit-ready-orange" />
 </div>
 
+## 🚀 Try "Interview with AI" Live!
+
+Want to see it in action?
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-blue?style=for-the-badge&logo=google-chrome)](https://your-website.com)
+Paste your resume or job description and get tailored technical & behavioral interview questions instantly.
+
+
+
+
 ## 🎬 Demo
 
 <p align="center">
