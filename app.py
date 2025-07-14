@@ -3,9 +3,14 @@ from resume import parse_resume
 from question_generator import generate_questions_from_resume, generate_questions_from_jd
 
 
-st.set_page_config(page_title="AI Interview Question Generator")
+st.set_page_config(page_title="AI Interview Question Generator", page_icon="🎯", layout="centered")
 
 st.title("🎯 AI Interview Question Generator")
+
+st.markdown("🚀 Upload a resume and generate smart, tailored interview questions.")
+
+with st.expander("ℹ️ How this works"):
+    st.markdown("This app parses your Resume or Job Description and uses OpenAI to generate technical and behavioral questions.")
 
 option = st.radio("Choose Input Type:", ["Upload Resume", "Paste Job Description"])
 
