@@ -12,7 +12,8 @@ A smart and production-ready AI tool that analyzes resumes or job descriptions a
 ## 🚀 Try "Interview with AI" Live!
 
 Want to see it in action?
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-blue?style=for-the-badge&logo=google-chrome)](https://your-website.com)
+
+[👉 Click here to try the AI-powered Interview Question Generator!](https://ai-interview-gen.streamlit.app/)
 Paste your resume or job description and get tailored technical & behavioral interview questions instantly.
 
 
