@@ -18,8 +18,8 @@ if option == "Upload Resume":
     uploaded_file = st.file_uploader("Upload your resume (PDF)", type="pdf")
     if uploaded_file:
         resume_json = parse_resume(uploaded_file)
-        st.text("Extracted Resume Text")
-        st.json(resume_json)
+        # st.text("Extracted Resume Text")
+        # st.json(resume_json)
         resume_text = "\n".join([f"{k}: {v}" for k, v in resume_json.items() if v])
         # st.text_area("Extracted Resume Text", resume_text, height=200)
         if st.button("Generate Questions"):
